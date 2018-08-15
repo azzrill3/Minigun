@@ -1,0 +1,8 @@
+author = Azzrill
+version = 2.0.0.0
+displayName = Minigun
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
